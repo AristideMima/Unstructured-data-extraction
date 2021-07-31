@@ -42,9 +42,6 @@ We used the following main languages and librairies
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
 * [Jupyter notebook](https://jupyter.org/)
-* []()
-* []()
-* []()
 
 ## Getting Started
 
